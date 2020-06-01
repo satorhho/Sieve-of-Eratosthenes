@@ -1,4 +1,4 @@
-upperbound = int(input("Ender upper bound:  "))
+upperbound = int(input("Upper bound:  "))
 A = [i for i in range(2, upperbound + 1)]
 
 size = upperbound - 1
