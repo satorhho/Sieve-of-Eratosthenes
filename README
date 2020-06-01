@@ -1,6 +1,6 @@
 Implementation of Sieve of Eratosthenes
 
 The sieve of Eratosthenes is an algorithm that finds all the prime numbers in a given scope.
-Note: 2 is the default lowerbound for this program.
+Note: 2 is the default lower bound for this program.
 
 For more info:  https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
